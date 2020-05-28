@@ -2,7 +2,7 @@
 name: New Sorting Method
 about: Do you have a suggestion on an arbitrary way I could sort Pokemon?
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
