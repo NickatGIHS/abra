@@ -1,4 +1,4 @@
-# Project ABRA
+# ArBitRAry Pokémon Database
 Basically a Pokémon Database but with some really **A**r**B**it**RA**ry ways of sorting them.
 
 Ways of sorting so far:
