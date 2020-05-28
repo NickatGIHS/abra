@@ -4,6 +4,7 @@ about: Do you have a suggestion on an arbitrary way I could sort Pokemon?
 title: ''
 labels: enhancement
 assignees: ''
+projects: Features to add
 
 ---
 
