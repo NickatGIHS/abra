@@ -1,0 +1,81 @@
+Pokemon :: container,bowl,holder,pouch,basket clothing,clothes,garment life indicator_(thing)
+Pokedex :: container,bowl,holder,pouch,basket clothing,clothes,garment life indicator_(thing) information book digits_(computer)
+
+Bulbasaur :: mystery,unknown bulb_(plant)
+Charmander :: fire animal,beast snake
+Squirtle :: water,fluid,liquid turtle,tortoise
+Caterpie :: worm butterfly,moth
+Weedle :: chemical_product death fly,flying_insect flower
+Pidgey :: bird
+Rattata :: animal,beast teeth
+Spearow :: group_of,much_of,many_of,quantity_of feeling,emotion,sensation indicator_(description) opposition,counter_purpose bird
+Ekans :: snake
+Pikachu :: electricity animal,beast teeth littleness,smallness
+Sandshrew :: powder,dust stone,rock animal,beast teeth littleness,smallness
+NidoranM :: chemical_product death pin activity,male_gender_(in_combinations)
+NidoranF :: chemical_product death pin female_(gender)
+Clefairy :: make-believe_woman wand star
+Vulpix :: fire dog,canine_(animal),canid littleness,smallness opening
+Jigglypuff :: mouth musical_note,music_(in_combinations) sleep
+Zubat :: bat_(animal)
+Oddish :: eye indicator_(description) thing,object sun plant
+Paras :: illness,disease,sickness_(sick_person)	 existence,being_(2) indicator_(thing) littleness,smallness crab,shellfish_(with_claws)
+Venonat :: eye indicator_(description) thing,object sun insect,bug
+Diglett :: underground,below_ground life indicator_(thing)
+Meowth :: disc,disk money,cash cat,feline_(animal),felid
+Psyduck :: minus,no,without smart,bright,clever,intelligent duck,bird_(water),waterbird,waterfowl,seabird,seafowl
+Mankey :: group_of,much_of,many_of,quantity_of feeling,emotion,sensation indicator_(description) opposition,counter_purpose animal,beast similar,like,alike person,human_being,individual,human
+Growlithe :: fire dog,canine_(animal),canid
+Poliwag :: spiral tadpole
+Abra :: cause mystery,unknown similar,like,alike person,human_being,individual,human
+Machop :: martial_arts leg_and_foot similar,like,alike person,human_being,individual,human
+Bellsprout :: flower with mouth
+Tentacool :: jellyfish
+Geodude :: stone,rock with arm indicator_(plural)
+Ponyta :: fire horse
+Slowpoke :: mouth indicator_(action) sleep
+Magnemite :: eye indicator_(description) thing,object sun thing,object magnetism
+Farfetch'd :: bird with onion,vegetable_(bulb) leaf
+Doduo :: head indicator_(plural) bird
+Seel :: seal
+Grimer :: chemical_product death waste,garbage,rubbish,trash
+Shellder :: shell,crust make-believe_person,imaginary_person clearness,clarity,transparency,transparence
+Gastly :: make-believe_person,imaginary_person clearness,clarity,transparency,transparence
+Onix :: stone,rock snake bigness,largeness
+Drowzee :: mind,intellect,reason cause mystery,unknown
+Krabby :: crab,shellfish_(with_claws)
+Voltorb :: electricity ball explosion,detonation,blowup
+Exeggcute :: egg,ovum_(2) indicator_(plural)
+Cubone :: mother,mom,mommy,mum death
+Hitmon-s :: fight,combat
+Lickitung :: tongue indicator_(action)
+Koffing :: gas chemical_product death
+Rhyhorn :: stone,rock horn(s)
+Chansey :: forward indicator_(action) existence,being_(2) health egg,ovum_(2)
+Tangela :: combination,connection strap,string,velcro,rope,cord grass length,longness
+Kangaskhan :: single_parent_family
+Horsea :: ocean,sea horse
+Goldeen :: metal_bar ring fish_(animal)
+Starmie :: water_creature star jewel,gem,gemstone
+Mr. Mime :: feeling,emotion,sensation indicator_(description) what,question_mark_(small) similar,like,alike person,human_being,individual,human
+Scyther :: insect,bug scissors
+Jynx :: feeling,emotion,sensation indicator_(description) what,question_mark_(small) similar,like,alike woman,female
+Electabuzz :: electricity life indicator_(thing)
+Magmar :: fire life indicator_(thing)
+Pinsir :: insect,bug pliers,tongs,tweezer(s),pincer(s)_(pair_of)
+Tauros :: animal_(bovine,ovine),bovid,bovine activity,male_gender_(in_combinations)
+Magikarp :: minus,no,without smart,bright,clever,intelligent fish_(animal)
+Lapras :: ride,drive indicator_(adverb) fish_(animal)
+Ditto :: similar,like,alike all,every,everything,total,whole
+Eevee :: change,alteration,conversion indicator_(action) all,every,everything,total,whole
+Porygon :: digits_(computer) life indicator_(thing)
+Omanyte :: atom life spiral shape,form God
+Kabuto :: half,one-half shape,form sun God
+Aerodactyl :: water,fluid,liquid trunk,tree_trunk,bole past God
+Snorlax :: sleep indicator_(description) fatness,thickness indicator_(description)
+Articuno :: ice bird
+Zapdos :: electricity bird
+Moltres :: fire bird
+Dratini :: animal,beast wing(s) cause mystery,unknown similar,like,alike snake
+Mewtwo :: same,equal,equality all,every,everything,total,whole parent past
+Mew :: all,every,everything,total,whole parent past
