@@ -12,4 +12,6 @@ Ideas of ways to sort:
  - By Type
  - By *SOME ARBITRARY WAYS:*
    - By order in [BDG's Perfect Pokérap](https://www.youtube.com/watch?v=2cT6ULpScZA)
-   - By [Blissymbolics?](http://blissymbolics.github.io/blissymbols/blissviewer-demo.html)
+   - By [Blissymbolics](http://blissymbolics.github.io/blissymbols/blissviewer-demo.html)?
+   
+   I will also make a python module for it.
