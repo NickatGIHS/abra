@@ -1,5 +1,5 @@
-# ArBitRAry Pokémon Database
-Basically a Pokémon Database but with some really **A**r**B**it**RA**ry ways of sorting them.
+# ArBitRAry Pokémon Database (Website)
+A Pokémon Database but with some really **A**r**B**it**RA**ry ways of sorting.
 
 Ways of sorting so far:
  - By Name (English)
@@ -14,4 +14,4 @@ Ideas of ways to sort:
    - By order in [BDG's Perfect Pokérap](https://www.youtube.com/watch?v=2cT6ULpScZA)
    - By [Blissymbolics](http://blissymbolics.github.io/blissymbols/blissviewer-demo.html)?
    
-   I will also make a python module for it.
+See also: [abra-py](https://github.com/NickatGIHS/abra-py) (python module)
