@@ -14,4 +14,4 @@ Ideas of ways to sort:
    - By order in [BDG's Perfect Pokérap](https://www.youtube.com/watch?v=2cT6ULpScZA)
    - By [Blissymbolics](http://blissymbolics.github.io/blissymbols/blissviewer-demo.html)?
    
-See also: [abra-py](https://github.com/NickatGIHS/abra-py) (python module)
+See also: [abra-py](https://github.com/NickatGIHS/abra-py) (python package)
